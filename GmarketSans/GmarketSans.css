@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "GmarketSans";
+  font-family: "GmarketSansLight";
   src: url("GmarketSansLight.eot");
   src: url("GmarketSansLight.eot?#iefix") format("embedded-opentype"),
     url("GmarketSansLight.woff2") format("woff2"),
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-  font-family: "GmarketSans";
+  font-family: "GmarketSansBold";
   src: url("GmarketSansBold.eot");
   src: url("GmarketSansBold.eot?#iefix") format("embedded-opentype"),
     url("GmarketSansBold.woff2") format("woff2"),
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-  font-family: "GmarketSans";
+  font-family: "GmarketSansMedium";
   src: url("GmarketSansMedium.eot");
   src: url("GmarketSansMedium.eot?#iefix") format("embedded-opentype"),
     url("GmarketSansMedium.woff2") format("woff2"),
